@@ -12,4 +12,4 @@ A simple photo gallery hosting repo. You can use [i4tow](https://rathnasorg.gith
 
 ## Customize or Selfhost 
 
-To customize/selfhost it on your own domain, DM me `anand@rathnas.com`
+To customize/selfhost it on your own domain, DM me `anand@rathnas.com`.
